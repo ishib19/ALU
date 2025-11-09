@@ -20,7 +20,7 @@ The design supports basic arithmetic and logical operations, verified through si
 ### Repo Structure
 ---
 ├──Verilog: module and testbench files<br>
-├──more outputs: SPEF, GDS, map, files<br>
+├──Imp outputs: SPEF, GDS, map, files<br>
 ├──Constraints: sdc file, template.tcl, setup.g file<br>
 ├──imp reports: area, time, power, gates report and output waveform<br>
 
